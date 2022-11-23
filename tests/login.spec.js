@@ -21,4 +21,6 @@ test.describe("Navigation to RTPay and accept the certificate manually", ()=>{
         await expect(page).toHaveURL('https://1connect.incommagentsolutions.biz/#/')
     })
 
+    
+
 })
